@@ -121,5 +121,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 💬 Contact
 
-Created with ❤️ by [Harishanan Thevarajah]. Feel free to reach out!
+Created with ❤️ by Harishanan Thevarajah. Feel free to reach out!
 
