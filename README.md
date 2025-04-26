@@ -42,10 +42,8 @@ An **AI-powered Chrome Extension** that integrates directly into Gmail, helping 
 
 | Feature | Screenshot |
 |:--------|:-----------|
-| AI Reply Generator Interface | ![AI Reply Generator Web](images/ai-gmail-assistant-web.png) |
 | Email Detection in Gmail | ![Email Detection](images/ai-gmail-assistant.png) |
-
-
+| AI Reply Generator Interface | ![AI Reply Generator Web](images/ai-gmail-assistant-web.png) |
 
 ---
 
