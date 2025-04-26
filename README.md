@@ -42,10 +42,10 @@ An **AI-powered Chrome Extension** that integrates directly into Gmail, helping 
 
 | Feature | Screenshot |
 |:--------|:-----------|
-| Email Detection in Gmail | ![Email Detection](./screenshots/email_detection.png) |
-| AI Reply Generator Interface | ![AI Reply Generator](./screenshots/ai_reply_generator.png) |
+| AI Reply Generator Interface | ![AI Reply Generator Web](images/ai-gmail-assistant-web.png) |
+| Email Detection in Gmail | ![Email Detection](images/ai-gmail-assistant.png) |
 
-*(Make sure to add actual images inside a `screenshots/` directory.)*
+
 
 ---
 
@@ -107,18 +107,6 @@ npm run build
 
 ---
 
-## 🤝 Contribution Guidelines
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
-Please open an issue for major feature requests first.
-
----
-
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -135,5 +123,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 💬 Contact
 
-Created with ❤️ by [Your Name]. Feel free to reach out!
+Created with ❤️ by [Harishanan Thevarajah]. Feel free to reach out!
 
